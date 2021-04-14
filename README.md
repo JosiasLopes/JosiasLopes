@@ -1,4 +1,4 @@
-<img align="right" width="300" height="400" style="border-radius:111px;" src="https://github.com/JosiasLopes/JosiasLopes/blob/main/matrix_gif.gif">
+<img align="right" width="400" height="400" style="border-radius:111px;" src="https://github.com/JosiasLopes/JosiasLopes/blob/main/matrix_gif.gif">
  
 # Welcome to my Github!
  

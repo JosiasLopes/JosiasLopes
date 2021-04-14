@@ -1,4 +1,4 @@
-<img align="right" width="300" height="300" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
+<img align="right" width="300" height="300" src="https://github.com/JosiasLopes/JosiasLopes/blob/main/perfil.jpg">
  
 # Welcome to my Github!
  
@@ -31,7 +31,7 @@ I'm going to the college for Computer Systems Analyst at Anhanguera University o
  
  
 ## About me 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/JosiasLopes/JosiasLopes/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JosiasLopes/JosiasLopes/)](https://github.com/JosiasLopes/JosiasLopes/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](link_do_seu_perfil_no_linkedin)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jobercardinho2014@gmail.com)](mailto:jobercardinho2014@gmail.com)
  

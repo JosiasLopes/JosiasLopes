@@ -1,4 +1,4 @@
-<img align="right" width="300" height="300" src="https://github.com/JosiasLopes/JosiasLopes/blob/main/perfil.jpg">
+<img align="right" width="300" height="300" style="border-radius:111px;" src="https://github.com/JosiasLopes/JosiasLopes/blob/main/perfil.jpg">
  
 # Welcome to my Github!
  
